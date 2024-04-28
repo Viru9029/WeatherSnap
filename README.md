@@ -12,7 +12,7 @@ The WeatherSnap is a user-friendly application that provides accurate weather in
 
 ## Screenshots
 
-![image](images\web_console.png)
+![image](images/web_console.png)
 
 
 
