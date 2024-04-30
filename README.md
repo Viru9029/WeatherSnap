@@ -18,7 +18,7 @@ The WeatherSnap is a user-friendly application that provides accurate weather in
 
 ## Deployment
 
-View my deployment on GitHub pages : https://virendrakate.github.io/WeatherSnap
+View my deployment on GitHub pages : https://viru9029.github.io/WeatherSnap/
 
 ## Setup
 
