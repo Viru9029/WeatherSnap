@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WeatherSnap/static/css/main.61d739fd.css",
+    "main.js": "/WeatherSnap/static/js/main.3f67cb7a.js",
+    "static/media/coldBg.jpg": "/WeatherSnap/static/media/coldBg.b465c99fe9f5a8eff109.jpg",
+    "static/media/warmBg.jpg": "/WeatherSnap/static/media/warmBg.dc5970411017b73f4ba6.jpg",
+    "static/media/coolBg.jpg": "/WeatherSnap/static/media/coolBg.7a2ae4d9b1fcc5b41699.jpg",
+    "static/media/hotBg.jpg": "/WeatherSnap/static/media/hotBg.51ef6e44e1a4ff23e8b3.jpg",
+    "index.html": "/WeatherSnap/index.html",
+    "main.61d739fd.css.map": "/WeatherSnap/static/css/main.61d739fd.css.map",
+    "main.3f67cb7a.js.map": "/WeatherSnap/static/js/main.3f67cb7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d739fd.css",
+    "static/js/main.3f67cb7a.js"
+  ]
+}
